@@ -50,7 +50,8 @@ using namespace std::chrono_literals; // NOLINT
   {"fmu/out/vehicle_land_detected"}, \
   {"fmu/out/vehicle_local_position"}, \
   {"fmu/out/vehicle_status"}, \
-  {"fmu/out/vtol_vehicle_status"}
+  {"fmu/out/vtol_vehicle_status"}, \
+  {"fmu/out/vehicle_odometry"}
 
 
 namespace px4_ros2
